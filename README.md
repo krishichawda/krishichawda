@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krishichawda
-- 👀 I’m interested in Blockchain / Web3
-- 💞️ I’m looking to collaborate on Web3 Projects
+
 - 📫 How to reach me krishichawda0@gmail.com
 
 <!---
