@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishichawda
 
-- 📫 How to reach me krishichawda0@gmail.com
+- 📫 How to reach me krishichawda@gmail.com
 
 <!---
 krishichawda/krishichawda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
