@@ -10,7 +10,7 @@
 - Developing **scalable pipelines** for wearable sensor data (Fitbit, health monitoring)   
 
 ## 📫 How to Reach Me
-- **Email:** [krishichawda@gmail.com](mailto:kchawda@ucsd.edu)  
+- **Email:** [kchawda@ucsd.edu](mailto:kchawda@ucsd.edu)  
 - **LinkedIn:** [linkedin.com/in/kchawda5](https://www.linkedin.com/in/kchawda5)  
 
 <!---
